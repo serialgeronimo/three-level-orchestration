@@ -1,0 +1,7 @@
+interface:
+  display_name: "Three-Level Orchestration"
+  short_description: "Orca review leaders and same-worktree workers"
+  default_prompt: "Use $three-level-orchestration to execute this task through a root team leader, review leaders, and same-worktree implementation workers."
+
+policy:
+  allow_implicit_invocation: false
